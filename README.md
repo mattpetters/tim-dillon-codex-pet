@@ -44,7 +44,7 @@ cp pet.json spritesheet.webp ~/.codex/pets/tim-dillon/
 
 Petdex Desktop uses `~/.petdex/pets/tim-dillon/`, and Hermes uses `~/.hermes/pets/tim-dillon/` with the same two files.
 
-After Petdex gallery review, the intended one-command install is:
+The package was submitted to Petdex as `tim-dillon` on August 23, 2026 and is currently held for human policy review. If approved, the one-command install will be:
 
 ```bash
 npx petdex install tim-dillon
