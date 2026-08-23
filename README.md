@@ -9,15 +9,16 @@ An unofficial, fan-made pixel-art parody and tribute to comedian and podcaster T
 
 ## About
 
-This Codex/Petdex/Hermes-compatible v2 pet is a compact 16-bit bobblehead interpretation built around recognizable comedic mannerisms and podcast references:
+This Codex/Petdex/Hermes-compatible v2 pet is a compact 16-bit bobblehead interpretation built around recognizable comedic mannerisms and podcast references. The main pet keeps one consistent iconic color-block outfit across every state:
 
-- oversized designer sunglasses and rotating podcast-era outfits
+- oversized designer sunglasses, dark green cap, and green/mustard/burgundy color-block fit
+- a chest-out fake-business “steakhouse entrance” strut with a palm-up pitch
 - a frozen, wide-eyed smile used as an expression payoff
 - a “life in the big city” shrug
 - a “we wish her well” golf sequence
 - a small Snuffleupagus-inspired stuffed-animal easter egg
 
-Neutral frames use a cleaner face. Dimples appear selectively during stronger smiles and expressions.
+Neutral frames use a cleaner face. Dimples appear selectively during stronger smiles and expressions. Alternate wardrobe releases, beginning with a separate `tim-dillon-summer` variant, are planned as distinct selectable pets rather than mid-animation clothing changes.
 
 ## Package
 
